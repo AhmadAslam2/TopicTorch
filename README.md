@@ -16,8 +16,6 @@ TopicTorch is a powerful and user-friendly discussion forum app built with React
 
 - **Discussion Threads**: Create, comment, and follow discussion threads to stay engaged with the community.
 
-- **Notifications**: Receive notifications for new discussions, replies, and mentions to stay informed.
-
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
